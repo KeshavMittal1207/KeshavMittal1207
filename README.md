@@ -166,42 +166,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub & Coding Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/KeshavMittal1207?label=Followers&style=for-the-badge&logo=github&color=203a43)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/KeshavMittal1207&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2c5364)
-![Last Commit](https://img.shields.io/github/last-commit/KeshavMittal1207/youtube-to-blog-langgraph-agent?style=for-the-badge&logo=git&logoColor=white&color=0f2027)
-
-<br/>
-
-<img src="https://ghchart.rshah.org/00D9FF/KeshavMittal1207" alt="GitHub contribution chart" width="95%" />
-
-<br/><br/>
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20my%20profile%20%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/keshav06/)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeshavMittal1207/KeshavMittal1207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeshavMittal1207/KeshavMittal1207/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/KeshavMittal1207/KeshavMittal1207/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<sub>↑ Needs the one-time GitHub Action described below. Delete this section if you don't want it.</sub>
-
----
-
 ## 🎯 Currently
 
 | | |
