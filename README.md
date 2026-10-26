@@ -97,6 +97,29 @@ public class Keshav {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📦 InvenTrack — Smart Inventory Management</h3>
+      <p>Inventory management application to track stock, products and movement in one place.</p>
+      <ul>
+        <li>📊 Real-time stock visibility</li>
+        <li>🗂️ Product and inventory CRUD workflows</li>
+      </ul>
+      <p><b>Stack:</b> <code>JavaScript</code></p>
+      <a href="https://github.com/KeshavMittal1207/inventrack-smart-inventory-management-application">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Urban Bites — Food Delivery System</h3>
+      <p>Full-stack food ordering platform built as my summer training project.</p>
+      <ul>
+        <li>🛒 Browse menu, cart and order flow</li>
+        <li>🔐 Authentication and role-based access</li>
+        <li>🏗️ Evolving the backend toward Java / Spring Boot with a React frontend</li>
+      </ul>
+      <p><b>Stack:</b> <code>JavaScript</code> <code>React</code> <code>Spring Boot</code> <code>MySQL</code></p>
+      <a href="https://github.com/KeshavMittal1207/urban-bites-food-delivery-system">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🎥 YouTube-to-Blog Agent</h3>
       <p>Human-in-the-loop agentic workflow that turns a YouTube video into a publication-ready, SEO-optimized blog and can publish it to Dev.to.</p>
       <ul>
@@ -118,43 +141,6 @@ public class Keshav {
       </ul>
       <p><b>Stack:</b> <code>Python</code> <code>LangGraph</code> <code>LangChain</code></p>
       <a href="https://github.com/KeshavMittal1207/auto-mail-agent">🔗 View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍔 Urban Bites — Food Delivery System</h3>
-      <p>Full-stack food ordering platform built as my summer training project.</p>
-      <ul>
-        <li>🛒 Browse menu, cart and order flow</li>
-        <li>🔐 Authentication and role-based access</li>
-        <li>🏗️ Evolving the backend toward Java / Spring Boot with a React frontend</li>
-      </ul>
-      <p><b>Stack:</b> <code>JavaScript</code> <code>React</code> <code>Spring Boot</code> <code>MySQL</code></p>
-      <a href="https://github.com/KeshavMittal1207/urban-bites-food-delivery-system">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 InvenTrack — Smart Inventory Management</h3>
-      <p>Inventory management application to track stock, products and movement in one place.</p>
-      <ul>
-        <li>📊 Real-time stock visibility</li>
-        <li>🗂️ Product and inventory CRUD workflows</li>
-      </ul>
-      <p><b>Stack:</b> <code>JavaScript</code></p>
-      <a href="https://github.com/KeshavMittal1207/inventrack-smart-inventory-management-application">🔗 View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Dynamic Portfolio</h3>
-      <p>My personal portfolio — a responsive, animated site showcasing projects, skills and contact info.</p>
-      <p><b>Stack:</b> <code>JavaScript</code> <code>Vercel</code></p>
-      <a href="https://keshav-dynamic-portfolio.vercel.app/">🔗 Live Site</a> · <a href="https://github.com/KeshavMittal1207/keshav-dynamic-portfolio">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 SkillSync <sub>(contributor)</sub></h3>
-      <p>Collaborative project I forked and contributed to — part of what earned me the Pull Shark badge.</p>
-      <p><b>Stack:</b> <code>JavaScript</code></p>
-      <a href="https://github.com/KeshavMittal1207/SkillSync">🔗 View Repository</a>
     </td>
   </tr>
 </table>
@@ -180,46 +166,21 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KeshavMittal1207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavMittal1207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" />
+![Followers](https://img.shields.io/github/followers/KeshavMittal1207?label=Followers&style=for-the-badge&logo=github&color=203a43)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/KeshavMittal1207&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2c5364)
+![Last Commit](https://img.shields.io/github/last-commit/KeshavMittal1207/youtube-to-blog-langgraph-agent?style=for-the-badge&logo=git&logoColor=white&color=0f2027)
 
-<img src="https://streak-stats.demolab.com/?user=KeshavMittal1207&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<br/>
 
-</div>
+<img src="https://ghchart.rshah.org/00D9FF/KeshavMittal1207" alt="GitHub contribution chart" width="95%" />
 
----
+<br/><br/>
 
-## 🧠 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/keshav06/">
-  <img src="https://leetcard.jwqs.me/api?username=keshav06&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="650" />
-</a>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github.com/KeshavMittal1207/KeshavMittal1207/blob/main/assets/pull-shark.png?raw=true" width="80" alt="Pull Shark" onerror="this.style.display='none'" />
-
-</div>
-
-- 🦈 **Pull Shark** — earned the GitHub achievement for merged pull requests
-- 🤖 Built a **production-style human-in-the-loop agentic AI system** with LangGraph interrupts, checkpoints and a reflection loop
-- 🧩 Consistent problem solving on **LeetCode** — [@keshav06](https://leetcode.com/u/keshav06/)
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KeshavMittal1207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Trophies" />
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20my%20profile%20%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/keshav06/)
 
 </div>
 
